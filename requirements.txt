@@ -220,7 +220,7 @@ python-dateutil==2.7.3
 python-qt-binding==0.3.3
 pytz==2018.5
 PyWavelets==1.0.0
-PyYAML==3.13
+PyYAML==5.4
 pyzmq==17.1.2
 qt-dotgraph==0.3.8
 qt-gui==0.3.8
