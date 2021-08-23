@@ -125,7 +125,7 @@ jupyter-core==4.4.0
 jupyter-highlight-selected-word==0.1.1
 jupyter-latex-envs==1.4.4
 jupyter-nbextensions-configurator==0.4.0
-jupyterlab==0.34.9
+jupyterlab==1.2.21
 jupyterlab-launcher==0.13.1
 Keras==2.2.4
 Keras-Applications==1.0.7
