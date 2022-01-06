@@ -35,7 +35,7 @@ camera-calibration==1.12.21
 camera-calibration-parsers==1.11.13
 catkin==0.7.8
 catkin-pkg==0.4.9
-celery==4.2.1
+celery==5.2.2
 certifi==2018.8.24
 cffi==1.11.5
 chardet==3.0.4
