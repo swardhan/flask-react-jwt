@@ -63,7 +63,7 @@ descartes==1.1.0
 diagnostic-analysis==1.9.2
 diagnostic-common-diagnostics==1.9.2
 diagnostic-updater==1.9.2
-distributed==1.23.1
+distributed==2021.10.0
 docutils==0.14
 dynamic-reconfigure==1.5.49
 empy==3.3.2
